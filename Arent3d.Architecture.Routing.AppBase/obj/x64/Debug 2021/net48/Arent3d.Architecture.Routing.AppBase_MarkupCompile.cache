@@ -1,0 +1,20 @@
+﻿Arent3d.Architecture.Routing.AppBase
+1.0.21.1122
+
+library
+C#
+.cs
+D:\projects\routing\architecture_routing\Arent3d.Architecture.Routing.AppBase\obj\x64\Debug 2021\net48\
+Arent3d.Architecture.Routing.AppBase
+none
+false
+TRACE;REVIT2021;REVIT2019_OR_GREATER;REVIT2020_OR_GREATER;REVIT2021_OR_GREATER;REVIT2021_OR_LESS;REVIT2022_OR_LESS;DEBUG_2021;NETFRAMEWORK;NET48;
+
+22-1680320905
+
+130-731218712
+36-595773260
+Forms\AutoVavEditControl.xaml;Forms\AutoVavRoutePropertyDialog.xaml;Forms\CeedDetailInformationDialog.xaml;Forms\CeeDModelDialog.xaml;Forms\CnsSettingDialog.xaml;Forms\ContentDisplayDialog.xaml;Forms\CsvModelDialog.xaml;Forms\Dialog2Buttons.xaml;Forms\Dialog3Buttons.xaml;Forms\FromToEditControl.xaml;Forms\FromToWindowBase.xaml;Forms\GetLevel.xaml;Forms\HeightSettingDialog.xaml;Forms\NumericUpDownEx.xaml;Forms\OffsetSettingDialog.xaml;Forms\Pages\FromToTree.xaml;Forms\PassPointInfo.xaml;Forms\RoutePropertyDialog.xaml;Forms\SelectConnector.xaml;Forms\SelectedFromToBase.xaml;Forms\SelectEndPoint.xaml;Forms\ShowDialog.xaml;
+
+True
+

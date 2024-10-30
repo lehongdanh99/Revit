@@ -1,0 +1,20 @@
+﻿Arent3d.Architecture.Routing.AppBase
+1.0.21.1214
+
+library
+C#
+.cs
+F:\Project\Arent Revit Test 01- English Version\Arent Revit Test 01\SourceCode\Arent3d.Architecture.Routing.AppBase\obj\x64\Debug 2019\net47\
+Arent3d.Architecture.Routing.AppBase
+none
+false
+TRACE;REVIT2019;REVIT2019_OR_GREATER;REVIT2019_OR_LESS;REVIT2020_OR_LESS;REVIT2021_OR_LESS;REVIT2022_OR_LESS;DEBUG_2019;NETFRAMEWORK;NET47;
+
+9648445940
+
+701252290596
+36-1363149949
+Forms\Dialog2Buttons.xaml;Forms\FromToEditControl.xaml;Forms\GetLevel.xaml;Forms\NumericUpDownEx.xaml;Forms\PassPointInfo.xaml;Forms\RoutePropertyDialog.xaml;Forms\SelectConnector.xaml;Forms\SelectEndPoint.xaml;Forms\ShowDialog.xaml;
+
+True
+

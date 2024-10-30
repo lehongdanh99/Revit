@@ -1,0 +1,2 @@
+F:\Project\Arent Revit Test 01- English Version\Arent Revit Test 01\SourceCode\Arent3d.Architecture.Routing.Mechanical.App\obj\x64\Debug 2019\net47\Arent3d.Architecture.Routing.Mechanical.App.csproj.AssemblyReference.cache
+F:\Project\Arent Revit Test 01- English Version\Arent Revit Test 01\SourceCode\Arent3d.Architecture.Routing.Mechanical.App\obj\x64\Debug 2019\net47\Arent3d.Architecture.Routing.Mechanical.App_MarkupCompile.cache

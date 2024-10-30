@@ -1,0 +1,17 @@
+F:\Project\Arent Revit Test 01- English Version\Arent Revit Test 01\SourceCode\Arent3d.Architecture.Routing.AppBase\obj\x64\Debug 2019\net47\Arent3d.Architecture.Routing.AppBase.csproj.AssemblyReference.cache
+F:\Project\Arent Revit Test 01- English Version\Arent Revit Test 01\SourceCode\Arent3d.Architecture.Routing.AppBase\obj\x64\Debug 2019\net47\Forms\GetLevel.baml
+F:\Project\Arent Revit Test 01- English Version\Arent Revit Test 01\SourceCode\Arent3d.Architecture.Routing.AppBase\obj\x64\Debug 2019\net47\Forms\NumericUpDownEx.baml
+F:\Project\Arent Revit Test 01- English Version\Arent Revit Test 01\SourceCode\Arent3d.Architecture.Routing.AppBase\obj\x64\Debug 2019\net47\Forms\SelectConnector.baml
+F:\Project\Arent Revit Test 01- English Version\Arent Revit Test 01\SourceCode\Arent3d.Architecture.Routing.AppBase\obj\x64\Debug 2019\net47\Forms\SelectEndPoint.baml
+F:\Project\Arent Revit Test 01- English Version\Arent Revit Test 01\SourceCode\Arent3d.Architecture.Routing.AppBase\obj\x64\Debug 2019\net47\Forms\Dialog2Buttons.g.cs
+F:\Project\Arent Revit Test 01- English Version\Arent Revit Test 01\SourceCode\Arent3d.Architecture.Routing.AppBase\obj\x64\Debug 2019\net47\Forms\FromToEditControl.g.cs
+F:\Project\Arent Revit Test 01- English Version\Arent Revit Test 01\SourceCode\Arent3d.Architecture.Routing.AppBase\obj\x64\Debug 2019\net47\Forms\GetLevel.g.cs
+F:\Project\Arent Revit Test 01- English Version\Arent Revit Test 01\SourceCode\Arent3d.Architecture.Routing.AppBase\obj\x64\Debug 2019\net47\Forms\NumericUpDownEx.g.cs
+F:\Project\Arent Revit Test 01- English Version\Arent Revit Test 01\SourceCode\Arent3d.Architecture.Routing.AppBase\obj\x64\Debug 2019\net47\Forms\PassPointInfo.g.cs
+F:\Project\Arent Revit Test 01- English Version\Arent Revit Test 01\SourceCode\Arent3d.Architecture.Routing.AppBase\obj\x64\Debug 2019\net47\Forms\RoutePropertyDialog.g.cs
+F:\Project\Arent Revit Test 01- English Version\Arent Revit Test 01\SourceCode\Arent3d.Architecture.Routing.AppBase\obj\x64\Debug 2019\net47\Forms\SelectConnector.g.cs
+F:\Project\Arent Revit Test 01- English Version\Arent Revit Test 01\SourceCode\Arent3d.Architecture.Routing.AppBase\obj\x64\Debug 2019\net47\Forms\SelectEndPoint.g.cs
+F:\Project\Arent Revit Test 01- English Version\Arent Revit Test 01\SourceCode\Arent3d.Architecture.Routing.AppBase\obj\x64\Debug 2019\net47\Forms\ShowDialog.g.cs
+F:\Project\Arent Revit Test 01- English Version\Arent Revit Test 01\SourceCode\Arent3d.Architecture.Routing.AppBase\obj\x64\Debug 2019\net47\GeneratedInternalTypeHelper.g.cs
+F:\Project\Arent Revit Test 01- English Version\Arent Revit Test 01\SourceCode\Arent3d.Architecture.Routing.AppBase\obj\x64\Debug 2019\net47\Arent3d.Architecture.Routing.AppBase_MarkupCompile.cache
+F:\Project\Arent Revit Test 01- English Version\Arent Revit Test 01\SourceCode\Arent3d.Architecture.Routing.AppBase\obj\x64\Debug 2019\net47\Arent3d.Architecture.Routing.AppBase_MarkupCompile.lref

@@ -1,0 +1,167 @@
+{
+  "format": 1,
+  "restore": {
+    "F:\\Project\\ArentRevitTest01\\ArentRevitTest01\\SourceCode\\Arent3d.Architecture.Routing.Mechanical.App\\Arent3d.Architecture.Routing.Mechanical.App.csproj": {}
+  },
+  "projects": {
+    "F:\\Project\\ArentRevitTest01\\ArentRevitTest01\\SourceCode\\Arent3d.Architecture.Routing.AppBase\\Arent3d.Architecture.Routing.AppBase.csproj": {
+      "version": "1.0.21.1214",
+      "restore": {
+        "projectUniqueName": "F:\\Project\\ArentRevitTest01\\ArentRevitTest01\\SourceCode\\Arent3d.Architecture.Routing.AppBase\\Arent3d.Architecture.Routing.AppBase.csproj",
+        "projectName": "Arent3d.Architecture.Routing.AppBase",
+        "projectPath": "F:\\Project\\ArentRevitTest01\\ArentRevitTest01\\SourceCode\\Arent3d.Architecture.Routing.AppBase\\Arent3d.Architecture.Routing.AppBase.csproj",
+        "packagesPath": "C:\\Users\\Danh Le\\.nuget\\packages\\",
+        "outputPath": "F:\\Project\\ArentRevitTest01\\ArentRevitTest01\\SourceCode\\Arent3d.Architecture.Routing.AppBase\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Danh Le\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net48"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net48": {
+            "targetAlias": "net48",
+            "projectReferences": {
+              "F:\\Project\\ArentRevitTest01\\ArentRevitTest01\\SourceCode\\Arent3d.Architecture.Routing\\Arent3d.Architecture.Routing.csproj": {
+                "projectPath": "F:\\Project\\ArentRevitTest01\\ArentRevitTest01\\SourceCode\\Arent3d.Architecture.Routing\\Arent3d.Architecture.Routing.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "allWarningsAsErrors": true,
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net48": {
+          "targetAlias": "net48",
+          "dependencies": {
+            "Microsoft.NETFramework.ReferenceAssemblies": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.0.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.NETFramework.ReferenceAssemblies.net48": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.0.0, )"
+            },
+            "NPOI": {
+              "target": "Package",
+              "version": "[2.5.5, )"
+            },
+            "NumericUpDown": {
+              "target": "Package",
+              "version": "[3.0.2, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "F:\\Project\\ArentRevitTest01\\ArentRevitTest01\\SourceCode\\Arent3d.Architecture.Routing.Mechanical.App\\Arent3d.Architecture.Routing.Mechanical.App.csproj": {
+      "version": "1.0.21.1214",
+      "restore": {
+        "projectUniqueName": "F:\\Project\\ArentRevitTest01\\ArentRevitTest01\\SourceCode\\Arent3d.Architecture.Routing.Mechanical.App\\Arent3d.Architecture.Routing.Mechanical.App.csproj",
+        "projectName": "Arent3d.Architecture.Routing.Mechanical.App",
+        "projectPath": "F:\\Project\\ArentRevitTest01\\ArentRevitTest01\\SourceCode\\Arent3d.Architecture.Routing.Mechanical.App\\Arent3d.Architecture.Routing.Mechanical.App.csproj",
+        "packagesPath": "C:\\Users\\Danh Le\\.nuget\\packages\\",
+        "outputPath": "F:\\Project\\ArentRevitTest01\\ArentRevitTest01\\SourceCode\\Arent3d.Architecture.Routing.Mechanical.App\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Danh Le\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net48"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net48": {
+            "targetAlias": "net48",
+            "projectReferences": {
+              "F:\\Project\\ArentRevitTest01\\ArentRevitTest01\\SourceCode\\Arent3d.Architecture.Routing.AppBase\\Arent3d.Architecture.Routing.AppBase.csproj": {
+                "projectPath": "F:\\Project\\ArentRevitTest01\\ArentRevitTest01\\SourceCode\\Arent3d.Architecture.Routing.AppBase\\Arent3d.Architecture.Routing.AppBase.csproj"
+              },
+              "F:\\Project\\ArentRevitTest01\\ArentRevitTest01\\SourceCode\\Arent3d.Architecture.Routing\\Arent3d.Architecture.Routing.csproj": {
+                "projectPath": "F:\\Project\\ArentRevitTest01\\ArentRevitTest01\\SourceCode\\Arent3d.Architecture.Routing\\Arent3d.Architecture.Routing.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "allWarningsAsErrors": true,
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net48": {
+          "targetAlias": "net48",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "F:\\Project\\ArentRevitTest01\\ArentRevitTest01\\SourceCode\\Arent3d.Architecture.Routing\\Arent3d.Architecture.Routing.csproj": {
+      "version": "1.0.21.1214",
+      "restore": {
+        "projectUniqueName": "F:\\Project\\ArentRevitTest01\\ArentRevitTest01\\SourceCode\\Arent3d.Architecture.Routing\\Arent3d.Architecture.Routing.csproj",
+        "projectName": "Arent3d.Architecture.Routing",
+        "projectPath": "F:\\Project\\ArentRevitTest01\\ArentRevitTest01\\SourceCode\\Arent3d.Architecture.Routing\\Arent3d.Architecture.Routing.csproj",
+        "packagesPath": "C:\\Users\\Danh Le\\.nuget\\packages\\",
+        "outputPath": "F:\\Project\\ArentRevitTest01\\ArentRevitTest01\\SourceCode\\Arent3d.Architecture.Routing\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Danh Le\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net48"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net48": {
+            "targetAlias": "net48",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "allWarningsAsErrors": true,
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net48": {
+          "targetAlias": "net48",
+          "dependencies": {
+            "NPOI": {
+              "target": "Package",
+              "version": "[2.5.5, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

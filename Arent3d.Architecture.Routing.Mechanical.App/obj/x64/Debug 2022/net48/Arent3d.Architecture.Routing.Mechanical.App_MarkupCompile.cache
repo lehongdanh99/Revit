@@ -1,0 +1,20 @@
+﻿Arent3d.Architecture.Routing.Mechanical.App
+1.0.21.1214
+
+library
+C#
+.cs
+F:\Project\ArentRevitTest01\ArentRevitTest01\SourceCode\Arent3d.Architecture.Routing.Mechanical.App\obj\x64\Debug 2022\net48\
+Arent3d.Architecture.Routing.Mechanical.App
+none
+false
+TRACE;REVIT2022;REVIT2019_OR_GREATER;REVIT2020_OR_GREATER;REVIT2021_OR_GREATER;REVIT2022_OR_GREATER;REVIT2022_OR_LESS;DEBUG_2022;NETFRAMEWORK;NET48;
+
+2996754745
+
+191274550132
+37-1017825340
+Forms\SimpleFromToEditControl.xaml;Forms\SimpleRoutePropertyDialog.xaml;
+
+True
+

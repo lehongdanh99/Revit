@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Application">
+    <Name>Mechanical Routing Assist</Name>
+    <AddInId>ea1148a5-3c05-4a58-99e8-736354c11906</AddInId>
+    <FullClassName>Arent3d.Architecture.Routing.Mechanical.App.RoutingApp</FullClassName>
+    <Assembly>F:\Project\ArentRevitTest01\ArentRevitTest01\SourceCode\Arent3d.Architecture.Routing.Mechanical.App\bin\Debug\2022\net48\Arent3d.Architecture.Routing.Mechanical.App.dll</Assembly>
+    <VendorId>com.arent3d</VendorId>
+    <VendorDescription>Arent Inc.</VendorDescription>
+  </AddIn>
+</RevitAddIns>

@@ -1,0 +1,5 @@
+F:\Project\Arent Revit Test 01- English Version\Arent Revit Test 01\SourceCode\Arent3d.Architecture.Routing\obj\x64\Debug 2019\net47\Arent3d.Architecture.Routing.csproj.AssemblyReference.cache
+F:\Project\Arent Revit Test 01- English Version\Arent Revit Test 01\SourceCode\Arent3d.Architecture.Routing\obj\x64\Debug 2019\net47\Arent3d.Architecture.Routing.GeneratedMSBuildEditorConfig.editorconfig
+F:\Project\Arent Revit Test 01- English Version\Arent Revit Test 01\SourceCode\Arent3d.Architecture.Routing\obj\x64\Debug 2019\net47\Arent3d.Architecture.Routing.AssemblyInfoInputs.cache
+F:\Project\Arent Revit Test 01- English Version\Arent Revit Test 01\SourceCode\Arent3d.Architecture.Routing\obj\x64\Debug 2019\net47\Arent3d.Architecture.Routing.AssemblyInfo.cs
+F:\Project\Arent Revit Test 01- English Version\Arent Revit Test 01\SourceCode\Arent3d.Architecture.Routing\obj\x64\Debug 2019\net47\Arent3d.Architecture.Routing.csproj.CoreCompileInputs.cache
